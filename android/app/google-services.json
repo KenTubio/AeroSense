@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155615617283",
+    "project_id": "aerosense-c0bb4",
+    "storage_bucket": "aerosense-c0bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155615617283:android:de6edda997b60caaab0936",
+        "android_client_info": {
+          "package_name": "com.example.aerosense_ph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mg4IyMHeCru_QTDmrNf6FpV6n38-gnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
